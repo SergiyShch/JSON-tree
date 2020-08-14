@@ -1,0 +1,17 @@
+.item {
+  font-size: 22px;
+  text-align: start;
+  width: max-content;
+  padding: 10px;
+  cursor: pointer;
+  margin: 10px 20px;
+}
+
+.item-inner {
+  display: flex;
+  margin-left: 10px;
+}
+
+.item-inner:hover {
+  color: red;
+}
